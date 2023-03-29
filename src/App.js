@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>HELLO ALTPOWER</h1>
+      <h1>Portfolio</h1>
     </>
   );
 }
